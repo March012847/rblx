@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:color="?unknown_attr_ref: 7f030125" android:state_activated="true"/>
+    <item android:state_enabled="false" android:color="?unknown_attr_ref: 7f03011c" android:alpha="0.38"/>
+    <item android:color="?unknown_attr_ref: 7f03011c" android:alpha="0.54"/>
+</selector>

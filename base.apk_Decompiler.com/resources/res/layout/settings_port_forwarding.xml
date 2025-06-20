@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:fitsSystemWindows="true" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="24dp" android:layout_marginStart="24dp" android:layout_marginEnd="24dp">
+    <TextView android:textSize="48sp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="24dp" android:text="0x7f0f00eb" android:hyphenationFrequency="2"/>
+    <TextView android:textSize="24sp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="24dp" android:text="0x7f0f00db" android:hyphenationFrequency="2"/>
+    <androidx.recyclerview.widget.RecyclerView android:id="0x7f0801d2" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="24dp" android:layout_marginHorizontal="16dp"/>
+    <androidx.constraintlayout.widget.ConstraintLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="24dp">
+        <TextView android:textSize="24sp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="0x7f0f00e9" android:hyphenationFrequency="2" app:layout_constraintBottom_toBottomOf="0" app:layout_constraintStart_toStartOf="0" app:layout_constraintTop_toTopOf="0"/>
+        <ImageButton android:id="0x7f0801d3" android:background="@android:color/transparent" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="0x7f07008a" android:contentDescription="0x7f0f00e7" android:layout_marginHorizontal="16dp" app:layout_constraintBottom_toBottomOf="0" app:layout_constraintEnd_toEndOf="0" app:layout_constraintTop_toTopOf="0"/>
+    </androidx.constraintlayout.widget.ConstraintLayout>
+    <androidx.recyclerview.widget.RecyclerView android:id="0x7f0801d7" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="24dp" android:layout_marginHorizontal="16dp"/>
+</LinearLayout>

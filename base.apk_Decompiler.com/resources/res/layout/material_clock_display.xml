@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="horizontal" android:id="0x7f080123" android:layout_width="wrap_content" android:layout_height="wrap_content" android:baselineAligned="false" android:layoutDirection="ltr">
+    <include android:id="0x7f08012c" layout="0x7f0b0044"/>
+    <include layout="0x7f0b003d"/>
+    <include android:id="0x7f08012f" layout="0x7f0b0044"/>
+</LinearLayout>

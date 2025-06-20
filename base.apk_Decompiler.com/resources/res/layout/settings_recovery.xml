@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:fitsSystemWindows="true" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_marginTop="24dp" android:layout_marginEnd="24dp">
+    <TextView android:textSize="48sp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="24dp" android:text="0x7f0f00f9" android:layout_marginStart="24dp" android:hyphenationFrequency="2"/>
+    <FrameLayout android:layout_width="match_parent" android:layout_height="match_parent">
+        <com.google.android.material.progressindicator.CircularProgressIndicator android:layout_gravity="center" android:id="0x7f08019f" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:indeterminate="true"/>
+        <LinearLayout android:orientation="vertical" android:id="0x7f0801c4" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <com.google.android.material.card.MaterialCardView android:id="0x7f0801db" android:focusable="true" android:longClickable="false" android:layout_width="match_parent" android:layout_height="wrap_content" app:cardCornerRadius="0dp" app:checkedIcon="@null" app:strokeWidth="0dp">
+                <androidx.constraintlayout.widget.ConstraintLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginStart="24dp" android:layout_marginEnd="16dp">
+                    <TextView android:textSize="20sp" android:id="0x7f0801dd" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_marginTop="20dp" android:text="0x7f0f00f7" android:layout_marginStart="24dp" app:layout_constraintBottom_toTopOf="0x7f0801dc" app:layout_constraintStart_toStartOf="0" app:layout_constraintTop_toTopOf="0"/>
+                    <TextView android:textSize="14sp" android:id="0x7f0801dc" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_marginBottom="20dp" android:text="0x7f0f00f6" android:layout_marginStart="24dp" app:layout_constraintBottom_toBottomOf="0" app:layout_constraintStart_toStartOf="0" app:layout_constraintTop_toBottomOf="0x7f0801dd"/>
+                </androidx.constraintlayout.widget.ConstraintLayout>
+            </com.google.android.material.card.MaterialCardView>
+            <com.google.android.material.card.MaterialCardView android:id="0x7f0801d8" android:focusable="true" android:longClickable="false" android:layout_width="match_parent" android:layout_height="wrap_content" app:cardCornerRadius="0dp" app:checkedIcon="@null" app:strokeWidth="0dp">
+                <androidx.constraintlayout.widget.ConstraintLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginStart="24dp" android:layout_marginEnd="16dp">
+                    <TextView android:textSize="20sp" android:id="0x7f0801da" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_marginTop="20dp" android:text="0x7f0f00f0" android:layout_marginStart="24dp" app:layout_constraintBottom_toTopOf="0x7f0801d9" app:layout_constraintStart_toStartOf="0" app:layout_constraintTop_toTopOf="0"/>
+                    <TextView android:textSize="14sp" android:id="0x7f0801d9" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_marginBottom="20dp" android:text="0x7f0f00ef" android:layout_marginStart="24dp" app:layout_constraintBottom_toBottomOf="0" app:layout_constraintStart_toStartOf="0" app:layout_constraintTop_toBottomOf="0x7f0801da"/>
+                </androidx.constraintlayout.widget.ConstraintLayout>
+            </com.google.android.material.card.MaterialCardView>
+        </LinearLayout>
+    </FrameLayout>
+</LinearLayout>

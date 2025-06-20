@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <LinearLayout android:layout_gravity="top|center_vertical|center_horizontal|center" android:orientation="horizontal" android:id="0x7f0800e8" android:paddingLeft="0x7f060356" android:paddingTop="0x7f060356" android:paddingRight="0x7f060356" android:layout_width="match_parent" android:layout_height="0x7f060359" android:paddingStart="0x7f060356" android:paddingEnd="0x7f060356" style="?unknown_attr_ref: 7f030350">
+        <com.google.android.material.button.MaterialButton android:gravity="center" android:layout_gravity="top" android:id="0x7f080080" android:padding="12dp" android:layout_width="0x7f060398" android:layout_height="0x7f060398" android:insetTop="0dp" android:insetBottom="0dp" android:contentDescription="0x7f0f0091" app:icon="0x7f0700b6" style="?unknown_attr_ref: 7f03034d"/>
+        <FrameLayout android:id="0x7f080154" android:paddingLeft="0x7f06035b" android:focusable="false" android:focusableInTouchMode="false" android:layout_width="0dp" android:layout_height="match_parent" android:layout_weight="1" android:importantForAccessibility="yes" android:paddingStart="0x7f06035b">
+            <TextView android:gravity="bottom|left|center_vertical|center_horizontal|center|start" android:layout_gravity="top|left|center_vertical|center_horizontal|center|start" android:id="0x7f080159" android:layout_width="match_parent" android:layout_height="wrap_content" app:firstBaselineToTopHeight="0x7f06036b" style="?unknown_attr_ref: 7f030352"/>
+            <TextView android:gravity="bottom|left|center_vertical|center_horizontal|center|start" android:layout_gravity="top|left|center_vertical|center_horizontal|center|start" android:id="0x7f080153" android:layout_width="match_parent" android:layout_height="wrap_content" app:firstBaselineToTopHeight="0x7f060365" app:lineHeight="0x7f06035a" style="?unknown_attr_ref: 7f030351"/>
+        </FrameLayout>
+        <LinearLayout android:orientation="0x7f090036" android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <com.google.android.material.button.MaterialButton android:layout_gravity="top|right|center_vertical|center_horizontal|center|end" android:id="0x7f080096" android:layout_width="wrap_content" android:layout_height="0x7f060398" android:text="0x7f0f00a4" android:contentDescription="0x7f0f00a4" style="?unknown_attr_ref: 7f03034e"/>
+            <include layout="0x7f0b0066"/>
+        </LinearLayout>
+    </LinearLayout>
+    <View android:layout_gravity="bottom" android:layout_width="match_parent" android:layout_height="0x7f060357" style="?unknown_attr_ref: 7f03034f"/>
+</merge>

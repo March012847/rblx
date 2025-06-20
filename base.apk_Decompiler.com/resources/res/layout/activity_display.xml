@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:layout_width="match_parent" android:layout_height="match_parent">
+    <View android:id="0x7f080061" android:layout_width="match_parent" android:layout_height="match_parent"/>
+    <SurfaceView android:id="0x7f080208" android:focusable="true" android:focusableInTouchMode="true" android:layout_width="match_parent" android:layout_height="match_parent" android:focusedByDefault="true" android:defaultFocusHighlightEnabled="true">
+        <requestFocus/>
+    </SurfaceView>
+    <SurfaceView android:id="0x7f0800a2" android:layout_width="64px" android:layout_height="64px"/>
+</merge>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:id="0x7f08013c" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <Button android:id="0x7f080074" android:text="0x7f0f0029" style="0x7f100143"/>
+        <Button android:id="0x7f08007a" android:text="0x7f0f002f" style="0x7f100143"/>
+        <Button android:id="0x7f080075" android:text="0x7f0f002a" style="0x7f100143"/>
+        <Button android:id="0x7f08007b" android:text="0x7f0f0030" style="0x7f100143"/>
+        <Button android:id="0x7f080073" android:text="0x7f0f0028" style="0x7f100143"/>
+        <Button android:id="0x7f080078" android:text="0x7f0f002d" style="0x7f100143"/>
+    </LinearLayout>
+    <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <Button android:id="0x7f080071" android:text="0x7f0f0026" style="0x7f100143"/>
+        <Button android:id="0x7f080070" android:text="0x7f0f0025" style="0x7f100143"/>
+        <Button android:id="0x7f080076" android:text="0x7f0f002b" style="0x7f100143"/>
+        <Button android:id="0x7f080072" android:text="0x7f0f0027" style="0x7f100143"/>
+        <Button android:id="0x7f080079" android:text="0x7f0f002e" style="0x7f100143"/>
+        <Button android:id="0x7f080077" android:text="0x7f0f002c" style="0x7f100143"/>
+    </LinearLayout>
+</LinearLayout>

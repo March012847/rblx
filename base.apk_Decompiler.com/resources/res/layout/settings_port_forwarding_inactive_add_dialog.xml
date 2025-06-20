@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:padding="16dp" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <EditText android:id="0x7f0801d4" android:layout_width="match_parent" android:layout_height="wrap_content" android:hint="0x7f0f00e1" android:inputType="number" android:importantForAutofill="2"/>
+</LinearLayout>

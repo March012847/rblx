@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:state_enabled="false" android:color="?unknown_attr_ref: 7f03011c" android:alpha="0x7f060243"/>
+    <item android:color="?unknown_attr_ref: 7f03011e" android:state_hovered="true"/>
+    <item android:state_checkable="true" android:state_checked="true" android:color="?unknown_attr_ref: 7f030119" android:state_hovered="true"/>
+    <item android:state_focused="true" android:color="?unknown_attr_ref: 7f03011e"/>
+    <item android:state_focused="true" android:state_checkable="true" android:state_checked="true" android:color="?unknown_attr_ref: 7f030119"/>
+    <item android:state_pressed="true" android:color="?unknown_attr_ref: 7f03011e"/>
+    <item android:state_checkable="true" android:state_checked="true" android:state_pressed="true" android:color="?unknown_attr_ref: 7f030119"/>
+    <item android:state_checkable="true" android:state_checked="true" android:color="?unknown_attr_ref: 7f030119"/>
+    <item android:color="?unknown_attr_ref: 7f03011e"/>
+</selector>

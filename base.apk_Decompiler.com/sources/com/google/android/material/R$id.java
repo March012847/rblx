@@ -1,0 +1,47 @@
+package com.google.android.material;
+
+public abstract class R$id {
+    public static final int cancel_button = 2131230848;
+    public static final int checked = 2131230860;
+    public static final int circle_center = 2131230862;
+    public static final int confirm_button = 2131230870;
+    public static final int design_menu_item_action_area_stub = 2131230896;
+    public static final int design_menu_item_text = 2131230897;
+    public static final int fullscreen_header = 2131230952;
+    public static final int indeterminate = 2131230978;
+    public static final int material_clock_face = 2131231013;
+    public static final int material_clock_hand = 2131231014;
+    public static final int material_clock_level = 2131231015;
+    public static final int material_clock_period_toggle = 2131231018;
+    public static final int material_hour_tv = 2131231020;
+    public static final int material_label = 2131231021;
+    public static final int material_minute_tv = 2131231023;
+    public static final int material_value_index = 2131231030;
+    public static final int month_grid = 2131231038;
+    public static final int month_navigation_fragment_toggle = 2131231040;
+    public static final int month_navigation_next = 2131231041;
+    public static final int month_navigation_previous = 2131231042;
+    public static final int month_title = 2131231043;
+    public static final int mtrl_calendar_day_selector_frame = 2131231045;
+    public static final int mtrl_calendar_days_of_week = 2131231046;
+    public static final int mtrl_calendar_frame = 2131231047;
+    public static final int mtrl_calendar_main_pane = 2131231048;
+    public static final int mtrl_calendar_months = 2131231049;
+    public static final int mtrl_calendar_year_selector_frame = 2131231052;
+    public static final int mtrl_card_checked_layer_id = 2131231053;
+    public static final int mtrl_picker_header_selection_text = 2131231059;
+    public static final int mtrl_picker_header_toggle = 2131231061;
+    public static final int mtrl_picker_title_text = 2131231065;
+    public static final int selection_type = 2131231171;
+    public static final int snackbar_action = 2131231211;
+    public static final int snackbar_text = 2131231212;
+    public static final int text_input_end_icon = 2131231271;
+    public static final int text_input_error_icon = 2131231272;
+    public static final int textinput_counter = 2131231274;
+    public static final int textinput_error = 2131231275;
+    public static final int textinput_helper_text = 2131231276;
+    public static final int textinput_placeholder = 2131231277;
+    public static final int textinput_prefix_text = 2131231278;
+    public static final int textinput_suffix_text = 2131231279;
+    public static final int unchecked = 2131231301;
+}

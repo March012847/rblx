@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:id="0x7f08021f" android:fitsSystemWindows="true" android:layout_width="match_parent" android:layout_height="match_parent">
+    <HorizontalScrollView android:id="0x7f08020e" android:scrollbars="none" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_alignParentTop="true" android:layout_toStartOf="0x7f080138" android:layout_alignParentStart="true">
+        <LinearLayout android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <com.google.android.material.tabs.TabLayout android:id="0x7f08020d" android:layout_width="wrap_content" android:layout_height="wrap_content" android:elevation="0dp" app:tabIndicator="0x7f070079" app:tabIndicatorColor="0x7f050322" app:tabIndicatorHeight="48dp" app:tabPaddingEnd="0dp" app:tabPaddingStart="0dp" app:tabRippleColor="@null"/>
+            <Button android:enabled="false" android:id="0x7f08020b" android:layout_width="wrap_content" android:layout_height="wrap_content" app:icon="0x7f07008a" style="?unknown_attr_ref: 7f030365"/>
+        </LinearLayout>
+    </HorizontalScrollView>
+    <LinearLayout android:orientation="horizontal" android:id="0x7f080138" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentTop="true" android:layout_alignParentEnd="true">
+        <Button android:id="0x7f0801c5" android:layout_width="wrap_content" android:layout_height="wrap_content" app:icon="0x7f0700a5" style="?unknown_attr_ref: 7f030365"/>
+        <Button android:id="0x7f0800bb" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" app:icon="0x7f070095" style="?unknown_attr_ref: 7f030365"/>
+    </LinearLayout>
+    <androidx.viewpager2.widget.ViewPager2 android:id="0x7f080189" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_above="0x7f08013d" android:layout_below="0x7f080138" android:layout_alignParentStart="true"/>
+    <LinearLayout android:orientation="vertical" android:id="0x7f08013d" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_alignParentBottom="true" android:layout_alignParentStart="true"/>
+</RelativeLayout>

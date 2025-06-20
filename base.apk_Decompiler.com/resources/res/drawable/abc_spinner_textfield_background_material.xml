@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<inset xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:insetLeft="0x7f060019" android:insetRight="0x7f060019" android:insetTop="0x7f060019" android:insetBottom="0x7f060019">
+    <selector>
+        <item android:state_checked="false" android:state_pressed="false">
+            <layer-list>
+                <item android:drawable="0x7f070072"/>
+                <item android:drawable="0x7f070065"/>
+            </layer-list>
+        </item>
+        <item>
+            <layer-list>
+                <item android:drawable="0x7f070071"/>
+                <item android:drawable="0x7f070065"/>
+            </layer-list>
+        </item>
+    </selector>
+</inset>
